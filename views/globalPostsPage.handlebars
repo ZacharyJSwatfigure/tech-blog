@@ -1,0 +1,24 @@
+<div style = "text-align:center;">
+	{{#if loggedIn}}
+		{{#if mine}}
+			<a href='/api/posts/' class='NavBar_Links' id = 'show_posts'>All</a>
+		{{else}}
+			<a href='/api/posts/byuserid/' class='NavBar_Links' id = 'show_posts'>Mine</a>
+		{{/if}}
+	{{/if}}
+</div>
+<div class="card_Main">
+
+		{{#each userPosts as |post|}}
+			
+			<section class = "card_Section">
+				<div id = 'viewMe'>User: {{post.username}}</div>
+				<div id = 'viewMe'>Title: {{post.helmet}}</div>
+				<div id = 'viewText'>{{post.armor}}</div>
+			</section>
+		
+		{{/each}}
+
+		
+</div>
+
