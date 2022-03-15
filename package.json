@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "tech-blog",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ZacharyJSwatfigure/techBlog"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/ZacharyJSwatfigure/techBlog/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/ZacharyJSwatfigure/techBlog",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cli-color": "^2.0.1",
