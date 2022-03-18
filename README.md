@@ -1,24 +1,23 @@
 [![Mozilla license](https://img.shields.io/badge/license-Mozilla-blue.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
   ## Table of Contents
   - [Description](#description)
-  - [DeployedIMGs](#DeployedIMGS)
+  - [Built-With](#built-with)
+  - [Deployed](#deployed)
   - [Installation](#installation)
-  - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#contributing)
   - [Questions](#questions)
   - [Credits](#credits)
   ## Description
   
   This blog allows people to sign in as unigue users and create posts about coding.
 
-  ## Built With
+  ## Built-With
 - [Node.js](https://nodejs.org/en/)
 - [Javascript](https://www.javascript.com)
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 - [mysql](https://www.mysql.com/)
 
-##Deployed link
+##Deployed
    
   <p><a href = 'https://stark-tundra-56698.herokuapp.com/'>Link</a> to deployed project</p>
 
