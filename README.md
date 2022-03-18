@@ -19,7 +19,7 @@
 
 
 
-  ##Deployed
+  ## Deployed
   <p><a href = 'https://stark-tundra-56698.herokuapp.com/'>Link</a> to deployed project</p>
 
   ## Installation
