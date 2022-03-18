@@ -17,8 +17,8 @@
 - [Javascript](https://www.javascript.com)
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 - [mysql](https://www.mysql.com/)
-  
-  ##Deployed link
+
+##Deployed link
    
   <p><a href = 'https://stark-tundra-56698.herokuapp.com/'>Link</a> to deployed project</p>
 
